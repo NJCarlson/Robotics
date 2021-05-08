@@ -9,3 +9,6 @@ https://www.amazon.com/EMOZNY-Mecanum-Omnidirectional-Wheels-Chassis/dp/B084TNLF
 
 Arduino Shield guide : 
 https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/
+
+IR transmitter + reciever guide : 
+https://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/
