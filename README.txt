@@ -5,7 +5,7 @@ Repo for Nick Carlson's robotics projects.
 - Raspberry pi 4, 8gb + Adafruit LOBE hat:
   https://www.adafruit.com/product/5024
 
-- Current skull, 3d printerd, with servo mounted on outside of jaw. Not ideal.
+- Current skull, 3d printed, with servo mounted on outside of jaw. Not ideal.
   https://www.thingiverse.com/thing:5471687
 
 (no real code yet other than servo tests!)
